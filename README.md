@@ -41,6 +41,8 @@
 | Week | Date | Name | Paper | Materials |
 |------|------|------|-------|-----------|
 |7|2020-11-3|宋扬|[AAAI16]Text Matching as Image Recognition|[slides](https://github.com/NLPcourse/Representation/blob/main/Alternative%20Reading%20List/Text%20Matching%20as%20Image%20Recognition.pdf)|
+|7|2020-11-3|光宗耀祖|attention is all your need|[slides]
+(https://github.com/empzhang/Representation/blob/main/Alternative%20Reading%20List/7181-attention-is-all-you-need.pdf)|
 
 
 
